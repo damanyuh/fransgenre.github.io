@@ -15,7 +15,7 @@
           url: "transition/sante/parcours"
         - title: Psychologie
           url: "transition/sante/psychologie"
-        - title: L'homonothérapie
+        - title: L'hormonothérapie
           url: "transition/sante/hormones"
         - title: La voix
           url: "transition/sante/voix"
@@ -28,7 +28,7 @@
       children:
         - title: Les études
           url: "transition/administratif#les-études"
-        - title: Etat civil
+        - title: L'état civil
           url: "transition/administratif#létat-civil"
         - title: L'ALD
           url: "transition/administratif#lald"
@@ -37,5 +37,5 @@
       children:
         - title: Le passing
           url: "transition/social#le-passing"
-        - title: Le comming out
+        - title: Le coming out
           url: "transition/social#le-coming-out"
