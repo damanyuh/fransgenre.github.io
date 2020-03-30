@@ -13,7 +13,7 @@ Vous êtes vous déja posé la question qu'est: "C'est quoi la transidentité ?"
 Vous souhaitez avoir des ressources, comprendre et aider ? Alors visitez [la section d'information]({% link pages/generalites.md %})
 
 ## Je suis trans, et je suis en recherche d'information
-La transidentité n'est pas une voie très documentée. Vous trouverez ici un ensemble de liens, retour d'expériences de l'ensemble de la communauté Fransgenre.
+La transidentité n'est pas une voie très documentée. Vous trouverez ici un ensemble de liens, documents, et retour d'expériences de l'ensemble de la communauté Fransgenre.
 Pour cela, visitez [la section transition]({% link pages/transition.md %}).
 
 ## Comment participer à ce wiki collaboratif ?
